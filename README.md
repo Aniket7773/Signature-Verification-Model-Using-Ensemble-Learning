@@ -4,9 +4,6 @@ Signature recognition systems utilize various techniques often involving a combi
 
 ![WhatsApp Image 2023-09-02 at 6 12 05 PM (1)](https://github.com/Aniket7773/Signature-Verification-Model/assets/146703824/6759b107-8c7c-43e8-b598-8e122317297a)
 
+![image](https://github.com/Aniket7773/Signature-Verification-Model-Using-Ensemble-Learning/assets/146703824/ea055641-22e1-4d89-8807-557786c73779)
 
-Spiral Model is being Used to Build the Project.The reason behind using this model is that ,The Spiral SDLC model is particularly suited for projects with high uncertainty or those that involve complex requirements. Signature recognition can be a challenging task that often requires iterative refinement and continuous improvement to achieve accuracy. The Spiral model allows for incremental development and incorporates feedback from users or stakeholders at each iteration.
-Since signature recognition algorithms may need adjustments, improvements, and adaptations based on real-world usage and diverse signature samples, the Spiral model's iterative approach provides the flexibility to refine the system gradually and make necessary changes as the project progresses. This can lead to a more robust and accurate signature recognition solution over time.
-
-![Screenshot 2023-09-04 005834 (2)](https://github.com/Aniket7773/Signature-Verification-Model/assets/146703824/fc2d3562-5709-46f8-8acf-c4cdd7ac8163)
-
+![image](https://github.com/Aniket7773/Signature-Verification-Model-Using-Ensemble-Learning/assets/146703824/c4e387a1-c9ef-43e0-a9bd-e2fc905b3d72)
