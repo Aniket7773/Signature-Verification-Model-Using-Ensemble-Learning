@@ -4,6 +4,5 @@ Signature recognition systems utilize various techniques often involving a combi
 
 ![WhatsApp Image 2023-09-02 at 6 12 05 PM (1)](https://github.com/Aniket7773/Signature-Verification-Model/assets/146703824/6759b107-8c7c-43e8-b598-8e122317297a)
 
-![image](https://github.com/Aniket7773/Signature-Verification-Model-Using-Ensemble-Learning/assets/146703824/ea055641-22e1-4d89-8807-557786c73779)
 
-![image](https://github.com/Aniket7773/Signature-Verification-Model-Using-Ensemble-Learning/assets/146703824/c4e387a1-c9ef-43e0-a9bd-e2fc905b3d72)
+![download](https://github.com/Aniket7773/Signature-Verification-Model-Using-Ensemble-Learning/assets/97180277/f9e6eb59-e201-4ee0-ab17-c00b57f24aa0)
